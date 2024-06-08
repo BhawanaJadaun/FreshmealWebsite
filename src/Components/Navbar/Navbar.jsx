@@ -1,5 +1,4 @@
-import { data } from 'autoprefixer';
-import { Dropdown } from 'bootstrap';
+
  import { Link } from 'react-router-dom';
 import React from 'react'
 import { FaCaretDown, FaUser } from "react-icons/fa";
